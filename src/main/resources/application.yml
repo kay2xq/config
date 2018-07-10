@@ -5,9 +5,9 @@ spring:
     config:
       server:
         git:
-          uri: https://gitee.com/sunshinekay/springCloud_sell
-          username: 1290062813@qq.com
-          password: kayeshifu
+          uri: https://github.com/kay2xq/config-repo.git
+          username: kay2xq
+          password: 123njdwjsmn456
   rabbitmq:
     host: 192.168.1.113
     port: 5672
